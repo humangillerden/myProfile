@@ -63,16 +63,16 @@ function App() {
             </h1>
             <div className="subheading mb-5">
               Blockchain & Frontend Developer · Engineer 
-              <p><a href="https://twitter.com/codeencoder" target={'_blank'} rel="noreferrer noopener">@codeencoder</a></p>
+              <p><a href="https://twitter.com/codeencoder" target={'_blank'} rel="noreferrer noopener" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Twitter on KEMAL">@codeencoder</a></p>
             </div>
             {/* <p className="lead mb-5">
               its a codeencoder <i className="fa-regular fa-face-smile" />
             </p> */}
             <div className="social-icons">
-              <a className="social-icon" href="https://github.com/humangillerden" target={'_blank'} rel="noreferrer noopener">
+              <a className="social-icon" href="https://github.com/humangillerden" target={'_blank'} rel="noreferrer noopener" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Github">
                 <i className="fab fa-github" />
               </a>
-              <a className="social-icon" href="https://twitter.com/codeencoder" target={'_blank'} rel="noreferrer noopener">
+              <a className="social-icon" href="https://twitter.com/codeencoder" target={'_blank'} rel="noreferrer noopener" data-bs-toggle="tooltip" data-bs-placement="right" title="Twitter">
                 <i className="fab fa-twitter" />
               </a>
             </div>
@@ -93,7 +93,7 @@ function App() {
                 <span className="fa-li">
                   <i className="fas fa-check" />
                 </span>
-                <a href="https://nft.metagalaxyland.com" target={'_blank'} rel="noreferrer noopener">MetaNFT</a> (as a blockchain (BSC) dev.)
+                <a href="https://nft.metagalaxyland.com" target={'_blank'} rel="noreferrer noopener">Metagalaxyland NFT</a> (as a blockchain (BSC) dev.)
               </li>
               <li>
                 <span className="fa-li">
@@ -105,7 +105,7 @@ function App() {
                 <span className="fa-li">
                   <i className="fas fa-check" />
                 </span>
-                <a href="https://alibaba.10secondlabs.com" target={'_blank'} rel="noreferrer noopener">Alibaba Pass</a> (as a frontend & blockchain (Solana) dev.)
+                <a href="https://alibaba.10secondlabs.com" target={'_blank'} rel="noreferrer noopener">Ali Baba Pass</a> (as a frontend & blockchain (Solana) dev.)
               </li>
             </ul>
               </div>
@@ -134,23 +134,23 @@ function App() {
             <h2 className="mb-5">Skills</h2>
             <div className="subheading mb-3">Programming Languages &amp; Tools</div>
             <ul className="list-inline dev-icons">
-              <li className="list-inline-item">
-                <i className="fab fa-html5" title="HTML5" />
+              <li className="list-inline-item" data-bs-toggle="tooltip" data-bs-placement="top" title="HTML5">
+                <i className="fab fa-html5" />
               </li>
-              <li className="list-inline-item">
-                <i className="fab fa-js-square" title="Javascript" />
+              <li className="list-inline-item"data-bs-toggle="tooltip" data-bs-placement="bottom" title="Javascript">
+                <i className="fab fa-js-square" />
               </li>
-              <li className="list-inline-item">
-                <i className="fab fa-react" title="React.js" />
+              <li className="list-inline-item" data-bs-toggle="tooltip" data-bs-placement="top" title="React.js">
+                <i className="fab fa-react" />
               </li>
-              <li className="list-inline-item">
-                <i className="fab fa-node-js" title="Node.js" />
+              <li className="list-inline-item" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Node.js">
+                <i className="fab fa-node-js" />
               </li>
-              <li className="list-inline-item">
-                <i className="fab fa-npm" title="NPM" />
+              <li className="list-inline-item" data-bs-toggle="tooltip" data-bs-placement="top" title="NPM">
+                <i className="fab fa-npm" />
               </li>
-              <li className="list-inline-item">
-                <i className="fab fa-php" title="PHP" />
+              <li className="list-inline-item" data-bs-toggle="tooltip" data-bs-placement="bottom" title="PHP">
+                <i className="fab fa-php" />
               </li>
             </ul>
             <div className="subheading mb-3">Others</div>
