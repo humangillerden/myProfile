@@ -59,7 +59,7 @@ function App() {
           <div className="resume-section-content">
             <h1 className="mb-0">
               Kemal
-              <span className="text-primary">(@humangillerden)</span>
+              <span className="text-primary">(@humang.)</span>
             </h1>
             <div className="subheading mb-5">
               Blockchain & Frontend Developer · Engineer 
