@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 
-### [Live Preview Vercel](https://humangillerden.vercel.app){:target="_blank" rel="noopener"}
+### [Live Preview Vercel](https://humangillerden.vercel.app)
 
 ## Available Scripts
 
