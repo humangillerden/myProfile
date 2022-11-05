@@ -8,7 +8,7 @@ function App() {
         className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
         id="sideNav"
       >
-        <a className="navbar-brand js-scroll-trigger" href="#page-top">
+        <a className="navbar-brand js-scroll-trigger" href="#about">
           <span className="d-block d-lg-none">KEMAL (@humangillerden)</span>
           <span className="d-none d-lg-block">
             <img
