@@ -135,22 +135,22 @@ function App() {
             <div className="subheading mb-3">Programming Languages &amp; Tools</div>
             <ul className="list-inline dev-icons">
               <li className="list-inline-item">
-                <i className="fab fa-html5" />
+                <i className="fab fa-html5" title="HTML5" />
               </li>
               <li className="list-inline-item">
-                <i className="fab fa-js-square" />
+                <i className="fab fa-js-square" title="Javascript" />
               </li>
               <li className="list-inline-item">
-                <i className="fab fa-react" />
+                <i className="fab fa-react" title="React.js" />
               </li>
               <li className="list-inline-item">
-                <i className="fab fa-node-js" />
+                <i className="fab fa-node-js" title="Node.js" />
               </li>
               <li className="list-inline-item">
-                <i className="fab fa-npm" />
+                <i className="fab fa-npm" title="NPM" />
               </li>
               <li className="list-inline-item">
-                <i className="fab fa-php" />
+                <i className="fab fa-php" title="PHP" />
               </li>
             </ul>
             <div className="subheading mb-3">Others</div>
