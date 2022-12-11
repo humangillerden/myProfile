@@ -62,18 +62,14 @@ function App() {
               <span className="text-primary">(@humang.)</span>
             </h1>
             <div className="subheading mb-5">
-              Blockchain & Frontend Developer · Engineer 
-              <p><a href="https://twitter.com/codeencoder" target={'_blank'} rel="noreferrer noopener" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Twitter on KEMAL">@codeencoder</a></p>
+              Blockchain & Frontend Developer · Engineer
             </div>
             {/* <p className="lead mb-5">
               its a codeencoder <i className="fa-regular fa-face-smile" />
             </p> */}
             <div className="social-icons">
-              <a className="social-icon" href="https://github.com/humangillerden" target={'_blank'} rel="noreferrer noopener" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Github">
+              <a className="social-icon" style={{width:'80px', height:'80px'}} href="https://github.com/humangillerden" target={'_blank'} rel="noreferrer noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Github">
                 <i className="fab fa-github" />
-              </a>
-              <a className="social-icon" href="https://twitter.com/codeencoder" target={'_blank'} rel="noreferrer noopener" data-bs-toggle="tooltip" data-bs-placement="right" title="Twitter">
-                <i className="fab fa-twitter" />
               </a>
             </div>
           </div>
